@@ -1,1 +1,1 @@
-# scpp
+# this is a scpp project
